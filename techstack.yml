@@ -1,0 +1,20 @@
+repo_name: sidduganeshsid/API
+report_id: 9300102b33927baae3f0145b4f5b6724
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-02T05:44:01+00:00'
+requested_by: sidduganeshsid
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/sidduganeshsid/API
+  detection_source: Repo Metadata
